@@ -1,0 +1,19 @@
+
+# Virtual environment
+.venv/
+
+# IDE
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Test and type-checker cache
+.pytest_cache/
+.mypy_cache/
+
+# Ruff cache
+.ruff_cache/
+
+*.egg-info/
