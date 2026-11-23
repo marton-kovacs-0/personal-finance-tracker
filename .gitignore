@@ -16,4 +16,7 @@ __pycache__/
 # Ruff cache
 .ruff_cache/
 
+# Build artifacts
+build/
+dist/
 *.egg-info/
